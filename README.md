@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel, mas pode me chamar de Gomes!
+## Hello! I'm Mrs. Gomes!
 
 <div align="center">
   <a href="https://github.com/GgvGomes">
