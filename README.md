@@ -1,23 +1,30 @@
 ## Hello! I'm Mrs. Gomes!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggvgomes&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggvgomes)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GgvGomes&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GgvGomes&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gomes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gomes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gomes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gomes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gomes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gomes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gomes-GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-   <img align="center" alt="Gomes-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gomes-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Gomes-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-</div>
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,docker,figma,github,jest,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=GgvGomes&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
   
 ##
  
@@ -30,17 +37,3 @@
  
 </div>
   
-<!--
-**GgvGomes/GgvGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
